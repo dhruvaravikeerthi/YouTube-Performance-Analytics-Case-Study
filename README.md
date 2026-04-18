@@ -1,5 +1,7 @@
 YouTube Performance Analytics Case Study
+
 Live link to the site of the analysis provided - https://dhruvaravikeerthi-youtube-performance-analytics-case-app-o0s0uj.streamlit.app/
+
 Overview
 This project is a data science case study that analyzes global YouTube trending video data to understand patterns in content performance. The study focuses on exploring how views, likes, engagement rate, and content categories influence video success across different countries.
 The goal is to move beyond simple visualization and develop meaningful statistical and behavioral insights from real-world data.
