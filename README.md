@@ -76,12 +76,13 @@ Distribution patterns across categories and countries
 
 These insights help explain why certain videos perform significantly better than others.
 
-Tools and Technologies
+Tools and Technologies:
 Python
 Pandas
 NumPy
 Matplotlib
 Streamlit
+
 Project Structure
 YouTube Performance Analytics Case Study
 │
@@ -90,24 +91,24 @@ YouTube Performance Analytics Case Study
 ├── youtube.csv
 ├── cleaned_youtube_data.csv
 └── README.md
+
 Future Improvements
 Time-series trend analysis for video performance over time
 Predictive modeling for forecasting views and engagement
 Clustering videos based on performance similarity
 Deeper country-wise comparative analysis
 Deployment as a full interactive analytics web application
-What I Learned
+
+What I Learned:
 
 Through this project, I developed a stronger understanding of:
-
 Data cleaning and preprocessing using pandas
 Statistical analysis including correlation and distributions
 Interpreting engagement metrics beyond raw numbers
 Detecting and explaining outliers in datasets
 Building interactive dashboards using Streamlit
 Translating data patterns into meaningful insights
+
 Conclusion
-
 This case study demonstrates how data science can be used to understand real-world content performance on digital platforms. The focus is on interpreting engagement behavior, identifying meaningful patterns, and deriving insights that go beyond visualization.
-
 The results highlight that engagement quality and content type play a more significant role in performance than raw view counts alone.
